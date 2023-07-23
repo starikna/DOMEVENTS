@@ -1,0 +1,12 @@
+{
+  "name": "event",
+  "version": "1.0.0",
+  "main": "index.js",
+"script": {
+  "serve":"http-server"
+},
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
